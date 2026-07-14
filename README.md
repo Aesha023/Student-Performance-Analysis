@@ -104,7 +104,7 @@ Student_Analysis/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/Student-Performance-Analysis.git
+git clone https://github.com/Aesha023/Student-Performance-Analysis.git
 ```
 
 2. Install the required libraries.
